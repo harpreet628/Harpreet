@@ -4,4 +4,5 @@ it built with model view controller.
 it used for create a application.
 create an empty file in your system tosave the code 
 clone the project from github to your system and save it in the empty file 
-git clone
+git clone https://github.com/harpreet628/Harpreet.git
+run the code by using visual studio by using execute button
